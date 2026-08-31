@@ -287,4 +287,28 @@ CATEGORIES:Personal
 DESCRIPTION:Reservation confirmed! Full name: Thomas Masters Number of gu
  ests: 4
 END:VEVENT
+BEGIN:VEVENT
+UID:golf-lesson-david-banks-20260902T160000@skylight-calendar-feed
+DTSTAMP:20260831T083702Z
+DTSTART;TZID=Europe/London:20260902T160000
+DTEND;TZID=Europe/London:20260902T170000
+SUMMARY:Golf lesson – David Banks
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:golf-lesson-david-banks-20260929T150000@skylight-calendar-feed
+DTSTAMP:20260831T083702Z
+DTSTART;TZID=Europe/London:20260929T150000
+DTEND;TZID=Europe/London:20260929T160000
+SUMMARY:Golf lesson – David Banks
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:golf-lesson-david-banks-20260929T160000@skylight-calendar-feed
+DTSTAMP:20260831T083702Z
+DTSTART;TZID=Europe/London:20260929T160000
+DTEND;TZID=Europe/London:20260929T170000
+SUMMARY:Golf lesson – David Banks
+CATEGORIES:Personal
+END:VEVENT
 END:VCALENDAR
