@@ -4,6 +4,23 @@ PRODID:-//Tom Masters//Filtered Outlook Calendar//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 X-WR-CALNAME:Skylight Calendar
+BEGIN:VTIMEZONE
+TZID:Europe/London
+BEGIN:DAYLIGHT
+DTSTART:20260329T010000
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0100
+TZNAME:BST
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+DTSTART:20261025T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0000
+TZNAME:GMT
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
 BEGIN:VEVENT
 UID:a0174aec@skylight-calendar-feed
 DTSTAMP:20260821T103301Z
@@ -22,9 +39,9 @@ CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
 UID:40f295cf@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;TZID=Europe/London:20260904T173000
-DTEND;TZID=Europe/London:20260904T190000
+DTSTAMP:20260831T131215Z
+DTSTART;TZID=Europe/London:20260904T190000
+DTEND;TZID=Europe/London:20260904T203000
 SUMMARY:Dave C 40th
 CATEGORIES:Personal
 END:VEVENT
@@ -71,11 +88,32 @@ CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
 UID:4b17643c@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
+DTSTAMP:20260831T131215Z
 DTSTART;TZID=Europe/London:20260916T080000
 DTEND;TZID=Europe/London:20260916T100000
 SUMMARY:EMEA Next Generation CFO Academy - Virtual Close
 CATEGORIES:Personal
+DESCRIPTION:Caution: This email originated from outside of the organization
+ . Do not click links or open attachments unless you recognize the sender a
+ nd know the content is safe.\n\nDear all\,\n\nIn our virtual roundtable we
+  will reflect on your time at the EMEA Next Generation CFO Academy\, and h
+ ow you will use what you have learned as you continue in your career journ
+ ey.\n\nWe will be joined by Alison Baker\, AC Chair at Endeavour Mining pl
+ c and Helios Towers plc.\n\nPlease join us for this roundtable\, so we can
+  come together as group once more\, reconnect you with peers and provide f
+ urther perspectives from senior executives and global leading experts!\n\n
+ If you have any questions\, please do let us know.\n\nWe look forward to r
+ econnecting\,\n\nKind regards\,\n\nDavid Anderson\, Sabine Benz\, and Rich
+ ard Muschamp\nEMEA Next Generation CFO Academy\n\nThis message (including 
+ any attachments) contains confidential information intended for a specific
+  individual and purpose\, and is protected by law. If you are not the inte
+ nded recipient\, you should delete this message and any disclosure\, copyi
+ ng\, or distribution of this message\, or the taking of any action based o
+ n it\, by you is strictly prohibited.\n\nDeloitte refers to a Deloitte mem
+ ber firm\, one of its related entities\, or Deloitte Touche Tohmatsu Limit
+ ed ("DTTL"). Each Deloitte member firm is a separate legal entity and a me
+ mber of DTTL. DTTL does not provide services to clients. Please see www.de
+ loitte.com/about (http://www.deloitte.com/about) to learn more.\nv.E.1
 END:VEVENT
 BEGIN:VEVENT
 UID:c437fe20@skylight-calendar-feed
@@ -143,19 +181,29 @@ CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
 UID:edc88d75@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
+DTSTAMP:20260831T131215Z
 DTSTART;TZID=Europe/London:20260907T075500
 DTEND;TZID=Europe/London:20260907T100500
 SUMMARY:✈ Flight to Lawica from London Luton (W95389)
 CATEGORIES:Other
+DESCRIPTION:Flight Information: Departure: London Luton (LTN) Monday 7 Sept
+ ember 07:55AM Airline: Wizz Air UK Flight Number: W95389 Arrival: Lawica (
+ POZ) Monday 7 September 11:05AM Flight Duration: 2h 10m Booking Reference:
+  BSIQ4U Perk Trip ID: 43915698\nView full booking details here: https://ap
+ p.perk.com/trips/43915698?source=CalendarEvent
 END:VEVENT
 BEGIN:VEVENT
 UID:df8bfec0@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
+DTSTAMP:20260831T131215Z
 DTSTART;TZID=Europe/London:20260910T185000
 DTEND;TZID=Europe/London:20260910T205500
 SUMMARY:✈ Flight to London Stansted from Lawica (FR2193)
 CATEGORIES:Other
+DESCRIPTION:Flight Information: Departure: Lawica (POZ) Thursday 10 Septemb
+ er 07:50PM Airline: Buzz Flight Number: FR2193 Arrival: London Stansted (S
+ TN) Thursday 10 September 08:55PM Flight Duration: 2h 5m Booking Reference
+ : X9RJ7U Perk Trip ID: 43915698\nView full booking details here: https://a
+ pp.perk.com/trips/43915698?source=CalendarEvent
 END:VEVENT
 BEGIN:VEVENT
 UID:f2630c13@skylight-calendar-feed
@@ -318,5 +366,26 @@ DTSTART;TZID=Europe/London:20260902T180000
 DTEND;TZID=Europe/London:20260902T190000
 SUMMARY:Out
 CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:travel-20260904T120000@skylight-calendar-feed
+DTSTAMP:20260831T131215Z
+DTSTART;TZID=Europe/London:20260904T120000
+DTEND;TZID=Europe/London:20260904T140000
+SUMMARY:Travel
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:flight-fr1751-20260909@skylight-calendar-feed
+DTSTAMP:20260831T131215Z
+DTSTART:20260909T111000Z
+DTEND:20260909T131500Z
+SUMMARY:Flight to London Stansted from Lawica (FR1751)
+CATEGORIES:Other
+DESCRIPTION:Flight Information: Departure: Lawica (POZ) Wednesday 9 Septemb
+ er 01:10PM Airline: Buzz Flight Number: FR1751 Arrival: London Stansted (S
+ TN) Wednesday 9 September 02:15PM Flight Duration: 2h 5m Booking Reference
+ : OVFVXI Perk Trip ID: 44126782\nView full booking details here: https://a
+ pp.perk.com/trips/44126782?source=CalendarEvent
 END:VEVENT
 END:VCALENDAR
