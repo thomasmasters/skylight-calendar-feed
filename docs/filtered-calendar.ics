@@ -356,7 +356,7 @@ UID:dentist-20260916T153000@skylight-calendar-feed
 DTSTAMP:20260901T154044Z
 DTSTART;TZID=Europe/London:20260916T153000
 DTEND;TZID=Europe/London:20260916T160000
-SUMMARY:Dentist
+SUMMARY:TM Dentist
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
@@ -392,5 +392,13 @@ DESCRIPTION:Flight Information: Departure: Lawica (POZ) Wednesday 23 Septem
  STN) Wednesday 23 September 02:15PM Flight Duration: 2h 5m Booking Referen
  ce: Y1359S Perk Trip ID: 44438971\nView full booking details here: https:/
  /app.perk.com/trips/44438971?source=CalendarEvent
+END:VEVENT
+BEGIN:VEVENT
+UID:tm-dentist-20260915T100000@skylight-calendar-feed
+DTSTAMP:20260902T153104Z
+DTSTART;TZID=Europe/London:20260915T100000
+DTEND;TZID=Europe/London:20260915T110000
+SUMMARY:TM Dentist
+CATEGORIES:Personal
 END:VEVENT
 END:VCALENDAR
