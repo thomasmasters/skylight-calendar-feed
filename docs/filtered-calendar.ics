@@ -326,19 +326,6 @@ SUMMARY:Travel
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
-UID:flight-fr1751-20260909@skylight-calendar-feed
-DTSTAMP:20260831T131215Z
-DTSTART:20260909T111000Z
-DTEND:20260909T131500Z
-SUMMARY:Flight to London Stansted from Lawica (FR1751)
-CATEGORIES:Other
-DESCRIPTION:Flight Information: Departure: Lawica (POZ) Wednesday 9 Septemb
- er 01:10PM Airline: Buzz Flight Number: FR1751 Arrival: London Stansted (S
- TN) Wednesday 9 September 02:15PM Flight Duration: 2h 5m Booking Reference
- : OVFVXI Perk Trip ID: 44126782\nView full booking details here: https://a
- pp.perk.com/trips/44126782?source=CalendarEvent
-END:VEVENT
-BEGIN:VEVENT
 UID:pompette-20260911@skylight-calendar-feed
 DTSTAMP:20260831T080401Z
 DTSTART;TZID=Europe/London:20260911T200000
@@ -379,5 +366,31 @@ DTSTART;TZID=Europe/London:20260902T071500
 DTEND;TZID=Europe/London:20260902T080500
 SUMMARY:Barrys
 CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:perk-44438971-w95389@skylight-calendar-feed
+DTSTAMP:20260902T112744Z
+DTSTART;TZID=Europe/London:20260921T075500
+DTEND;TZID=Europe/London:20260921T100500
+SUMMARY:Flight to Lawica from London Luton (W95389)
+CATEGORIES:Other
+DESCRIPTION:Flight Information: Departure: London Luton (LTN) Monday 21 Sep
+ tember 07:55AM Airline: Wizz Air UK Flight Number: W95389 Arrival: Lawica 
+ (POZ) Monday 21 September 11:05AM Flight Duration: 2h 10m Booking Referenc
+ e: NRZUMA Perk Trip ID: 44438971\nView full booking details here: https://
+ app.perk.com/trips/44438971?source=CalendarEvent
+END:VEVENT
+BEGIN:VEVENT
+UID:perk-44438971-fr1751@skylight-calendar-feed
+DTSTAMP:20260902T112744Z
+DTSTART;TZID=Europe/London:20260923T121000
+DTEND;TZID=Europe/London:20260923T141500
+SUMMARY:Flight to London Stansted from Lawica (FR1751)
+CATEGORIES:Other
+DESCRIPTION:Flight Information: Departure: Lawica (POZ) Wednesday 23 Septem
+ ber 01:10PM Airline: Buzz Flight Number: FR1751 Arrival: London Stansted (
+ STN) Wednesday 23 September 02:15PM Flight Duration: 2h 5m Booking Referen
+ ce: Y1359S Perk Trip ID: 44438971\nView full booking details here: https:/
+ /app.perk.com/trips/44438971?source=CalendarEvent
 END:VEVENT
 END:VCALENDAR
