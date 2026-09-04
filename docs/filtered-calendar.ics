@@ -186,18 +186,17 @@ DESCRIPTION:Flight Information: Departure: London Luton (LTN) Monday 7 Sept
 END:VEVENT
 BEGIN:VEVENT
 UID:df8bfec0@skylight-calendar-feed
-DTSTAMP:20260831T131215Z
-DTSTART;TZID=Europe/London:20260910T185000
-DTEND;TZID=Europe/London:20260910T205500
+DTSTAMP:20260904T102238Z
+DTSTART;TZID=Europe/London:20260909T191500
+DTEND;TZID=Europe/London:20260909T212000
 SUMMARY:✈ Flight to London Stansted from Lawica (FR2193)
 CATEGORIES:Other
-DESCRIPTION:Flight Information: Departure: Lawica (POZ) Thursday 10 Septemb
- er 07:50PM Airline: Buzz Flight Number: FR2193 Arrival: London Stansted (S
- TN) Thursday 10 September 08:55PM Flight Duration: 2h 5m Booking Reference
- : X9RJ7U Perk Trip ID: 43915698\nView full booking details here: https://a
- pp.perk.com/trips/43915698?source=CalendarEvent
-END:VEVENT
-BEGIN:VEVENT
+DESCRIPTION:Flight Information: Departure: Lawica (POZ) Wednesday 9 Septemb
+ er 08:15PM Airline: Buzz Flight Number: FR2193 Arrival: London Stansted (
+ STN) Wednesday 9 September 09:20PM Flight Duration: 2h 5m Booking Referen
+ ce: HSFUWB Perk Trip ID: 44600295\nView full booking details here: https:
+ //app.perk.com/trips/44600295?source=CalendarEvent
+END:VEVENTBEGIN:VEVENT
 UID:f2630c13@skylight-calendar-feed
 DTSTAMP:20260821T103301Z
 DTSTART;TZID=Europe/London:20260916T100000
