@@ -148,19 +148,6 @@ SUMMARY:Shoot - Oundle
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
-UID:edc88d75@skylight-calendar-feed
-DTSTAMP:20260831T131215Z
-DTSTART;TZID=Europe/London:20260907T075500
-DTEND;TZID=Europe/London:20260907T100500
-SUMMARY:✈ Flight to Lawica from London Luton (W95389)
-CATEGORIES:Other
-DESCRIPTION:Flight Information: Departure: London Luton (LTN) Monday 7 Sept
- ember 07:55AM Airline: Wizz Air UK Flight Number: W95389 Arrival: Lawica (
- POZ) Monday 7 September 11:05AM Flight Duration: 2h 10m Booking Reference:
-  BSIQ4U Perk Trip ID: 43915698\nView full booking details here: https://ap
- p.perk.com/trips/43915698?source=CalendarEvent
-END:VEVENT
-BEGIN:VEVENT
 UID:df8bfec0@skylight-calendar-feed
 DTSTAMP:20260904T102238Z
 DTSTART;TZID=Europe/London:20260909T191500
