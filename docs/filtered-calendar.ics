@@ -22,23 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c675d9fa@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;TZID=Europe/London:20260908T160000
-DTEND;TZID=Europe/London:20260908T170000
-SUMMARY:Tom M Oli Session 12
-CATEGORIES:Personal
-DESCRIPTION:Oli Deacon is inviting you to a scheduled Zoom meeting.\
- n\nJoin Zoom Meeting\n\nhttps://us02web.zoom.us/j/82748776794?pwd=P9
- auS3FlGxZAcKQesbWIXRcKI832qr.1\n\nMeeting ID: 827 4877 6794\n\nPassc
- ode: 190700\n\n---\n\nOne tap mobile\n\n+442034815240\,\,82748776794
- #\,\,\,\,*190700# United Kingdom\n\n+442039017895\,\,82748776794#\,\
- ,\,\,*190700# United Kingdom\n\n---\n\nJoin by SIP\n\n• 82748776794@
- zoomcrc.com\n\nJoin instructions\n\nhttps://us02web.zoom.us/meetings
- /82748776794/invitations?signature=TU0s48oWZXs70kjS3zkvP4Lt6m7Yv4J1d
- XqGOqJjxbI
-END:VEVENT
-BEGIN:VEVENT
 UID:22c6fd76@skylight-calendar-feed
 DTSTAMP:20260821T103301Z
 DTSTART;VALUE=DATE:20260911
