@@ -139,19 +139,6 @@ SUMMARY:Shoot - Oundle
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
-UID:df8bfec0@skylight-calendar-feed
-DTSTAMP:20260904T102238Z
-DTSTART;TZID=Europe/London:20260909T191500
-DTEND;TZID=Europe/London:20260909T212000
-SUMMARY:✈ Flight to London Stansted from Lawica (FR2193)
-CATEGORIES:Other
-DESCRIPTION:Flight Information: Departure: Lawica (POZ) Wednesday 9 Septemb
- er 08:15PM Airline: Buzz Flight Number: FR2193 Arrival: London Stansted (
- STN) Wednesday 9 September 09:20PM Flight Duration: 2h 5m Booking Referen
- ce: HSFUWB Perk Trip ID: 44600295\nView full booking details here: https:
- //app.perk.com/trips/44600295?source=CalendarEvent
-END:VEVENT
-BEGIN:VEVENT
 UID:f2630c13@skylight-calendar-feed
 DTSTAMP:20260821T103301Z
 DTSTART;TZID=Europe/London:20260916T100000
@@ -166,14 +153,6 @@ DTSTART;VALUE=DATE:20261017
 DTEND;VALUE=DATE:20261019
 SUMMARY:Keep free
 CATEGORIES:Other
-END:VEVENT
-BEGIN:VEVENT
-UID:642f58a2@skylight-calendar-feed
-DTSTAMP:20260905T114622Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260910
-SUMMARY:Poznan
-CATEGORIES:Orange Category
 END:VEVENT
 BEGIN:VEVENT
 UID:0e72b568@skylight-calendar-feed
