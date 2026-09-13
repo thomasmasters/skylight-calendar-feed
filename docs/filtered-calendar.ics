@@ -260,24 +260,6 @@ SUMMARY:NYD holiday
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
-UID:pompette-20260911@skylight-calendar-feed
-DTSTAMP:20260831T080401Z
-DTSTART;TZID=Europe/London:20260911T200000
-DTEND;TZID=Europe/London:20260911T213000
-SUMMARY:Pompette
-CATEGORIES:Personal
-DESCRIPTION:Reservation confirmed! Full name: Thomas Masters Number of gu
- ests: 4
-END:VEVENT
-BEGIN:VEVENT
-UID:d-banks-20260911T140000@skylight-calendar-feed
-DTSTAMP:20260901T135512Z
-DTSTART;TZID=Europe/London:20260911T140000
-DTEND;TZID=Europe/London:20260911T160000
-SUMMARY:D Banks
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
 UID:dentist-20260916T153000@skylight-calendar-feed
 DTSTAMP:20260904T135407Z
 DTSTART;TZID=Europe/London:20260916T153000
@@ -292,7 +274,7 @@ DTSTART;TZID=Europe/London:20260918T075500
 DTEND;TZID=Europe/London:20260918T100500
 SUMMARY:Flight to Lawica from London Luton (W95389)
 CATEGORIES:Other
-DESCRIPTION:Flight Information: Departure: London Luton (LTN) Monday 21 Sep
+DESCRIPTION:Flight Information: Departure: London Luton (LTN) Friday 18 Sep
  tember 07:55AM Airline: Wizz Air UK Flight Number: W95389 Arrival: Lawica 
  (POZ) Friday 18 September 11:05AM Flight Duration: 2h 10m Booking Referenc
  e: NRZUMA Perk Trip ID: 44438971\nView full booking details here: https://
