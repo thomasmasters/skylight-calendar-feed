@@ -22,35 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:4b17643c@skylight-calendar-feed
-DTSTAMP:20260831T131215Z
-DTSTART;TZID=Europe/London:20260916T080000
-DTEND;TZID=Europe/London:20260916T100000
-SUMMARY:EMEA Next Generation CFO Academy - Virtual Close
-CATEGORIES:Personal
-DESCRIPTION:Caution: This email originated from outside of the organization
- . Do not click links or open attachments unless you recognize the sender a
- nd know the content is safe.\n\nDear all\,\n\nIn our virtual roundtable we
-  will reflect on your time at the EMEA Next Generation CFO Academy\, and h
- ow you will use what you have learned as you continue in your career journ
- ey.\n\nWe will be joined by Alison Baker\, AC Chair at Endeavour Mining pl
- c and Helios Towers plc.\n\nPlease join us for this roundtable\, so we can
-  come together as group once more\, reconnect you with peers and provide f
- urther perspectives from senior executives and global leading experts!\n\n
- If you have any questions\, please do let us know.\n\nWe look forward to r
- econnecting\,\n\nKind regards\,\n\nDavid Anderson\, Sabine Benz\, and Rich
- ard Muschamp\nEMEA Next Generation CFO Academy\n\nThis message (including 
- any attachments) contains confidential information intended for a specific
-  individual and purpose\, and is protected by law. If you are not the inte
- nded recipient\, you should delete this message and any disclosure\, copyi
- ng\, or distribution of this message\, or the taking of any action based o
- n it\, by you is strictly prohibited.\n\nDeloitte refers to a Deloitte mem
- ber firm\, one of its related entities\, or Deloitte Touche Tohmatsu Limit
- ed ("DTTL"). Each Deloitte member firm is a separate legal entity and a me
- mber of DTTL. DTTL does not provide services to clients. Please see www.de
- loitte.com/about (http://www.deloitte.com/about) to learn more.\nv.E.1
-END:VEVENT
-BEGIN:VEVENT
 UID:c437fe20@skylight-calendar-feed
 DTSTAMP:20260821T103301Z
 DTSTART;VALUE=DATE:20260930
@@ -121,14 +92,6 @@ DTSTART;TZID=Europe/London:20261217T090000
 DTEND;TZID=Europe/London:20261217T153000
 SUMMARY:Shoot - Oundle
 CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:f2630c13@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;TZID=Europe/London:20260916T100000
-DTEND;TZID=Europe/London:20260916T110000
-SUMMARY:Travel
-CATEGORIES:Other
 END:VEVENT
 BEGIN:VEVENT
 UID:d948949d@skylight-calendar-feed
@@ -241,14 +204,6 @@ DTSTAMP:20260831T091031Z
 DTSTART;TZID=Europe/London:20270101T000000
 DTEND;TZID=Europe/London:20270101T003000
 SUMMARY:NYD holiday
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:dentist-20260916T153000@skylight-calendar-feed
-DTSTAMP:20260904T135407Z
-DTSTART;TZID=Europe/London:20260916T153000
-DTEND;TZID=Europe/London:20260916T163000
-SUMMARY:TM Dentist
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
