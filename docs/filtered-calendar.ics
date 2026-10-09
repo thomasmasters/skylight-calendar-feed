@@ -22,28 +22,29 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:c437fe20@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;VALUE=DATE:20260930
-DTEND;VALUE=DATE:20261004
-SUMMARY:Golf - Spain
+UID:bupa-finger-20261009T163000@skylight-calendar-feed
+DTSTAMP:20260921T101414Z
+DTSTART;TZID=Europe/London:20261009T163000
+DTEND;TZID=Europe/London:20261009T170000
+SUMMARY:Bupa finger appointment
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
-UID:d8d24678@skylight-calendar-feed
+UID:outlook-AKg0UhcAAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261011T000000
+DTEND;TZID=Europe/London:20261011T003000
+SUMMARY:D transfer
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:off-question-20261012@skylight-calendar-feed
 DTSTAMP:20260921T071744Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261009
-SUMMARY:Calcot Spa
+DTSTART;VALUE=DATE:20261012
+DTEND;VALUE=DATE:20261017
+SUMMARY:Off?
 CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:41d23099@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261010
-SUMMARY:Off
-CATEGORIES:Personal
+DESCRIPTION:
 END:VEVENT
 BEGIN:VEVENT
 UID:1167d612@skylight-calendar-feed
@@ -54,84 +55,36 @@ SUMMARY:Deloitte Event
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
-UID:bb15e7d8@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;VALUE=DATE:20261023
-DTEND;VALUE=DATE:20261027
-SUMMARY:Ireland
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:parents-lunch-core-20261105T143000@skylight-calendar-feed
-DTSTAMP:20260908T074357Z
-DTSTART;TZID=Europe/London:20261105T143000
-DTEND;TZID=Europe/London:20261105T190000
-SUMMARY:Parents having lunch in Core
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:b44beb4b@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;VALUE=DATE:20261107
-DTEND;VALUE=DATE:20261109
-SUMMARY:Birthday weekend
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:2a39a960@skylight-calendar-feed
-DTSTAMP:20260921T073414Z
-DTSTART;VALUE=DATE:20261211
-DTEND;VALUE=DATE:20261214
-SUMMARY:Dublin??
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:214984c6@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;TZID=Europe/London:20261217T090000
-DTEND;TZID=Europe/London:20261217T153000
-SUMMARY:Shoot - Oundle
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:d948949d@skylight-calendar-feed
-DTSTAMP:20260821T103301Z
-DTSTART;VALUE=DATE:20261017
+UID:outlook-AKg0UhcwAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261019
-SUMMARY:Keep free
-CATEGORIES:Other
-END:VEVENT
-BEGIN:VEVENT
-UID:0e72b568@skylight-calendar-feed
-DTSTAMP:20260831T074731Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260924
-SUMMARY:Poznan
-CATEGORIES:Orange Category
-END:VEVENT
-BEGIN:VEVENT
-UID:idgc-20260926@skylight-calendar-feed
-DTSTAMP:20260831T080401Z
-DTSTART;TZID=Europe/London:20260926T153000
-DTEND;TZID=Europe/London:20260926T190000
-SUMMARY:IDGC - SW8 3QH victoria pub
+SUMMARY:Home
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
-UID:golf-lesson-david-banks-20260929T150000@skylight-calendar-feed
-DTSTAMP:20260831T083702Z
-DTSTART;TZID=Europe/London:20260929T150000
-DTEND;TZID=Europe/London:20260929T160000
-SUMMARY:Golf lesson – David Banks
+UID:outlook-AKICd1PQAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261015T083000
+DTEND;TZID=Europe/London:20261015T100000
+SUMMARY:The Deloitte Academy: Retail & Consumer Board Update - The opportun
+ ity for a Marketing Renaissance
 CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:golf-lesson-david-banks-20260929T160000@skylight-calendar-feed
-DTSTAMP:20260831T083702Z
-DTSTART;TZID=Europe/London:20260929T160000
-DTEND;TZID=Europe/London:20260929T170000
-SUMMARY:Golf lesson – David Banks
-CATEGORIES:Personal
+DESCRIPTION:The consumer goods industry is on the cusp of a radical transfo
+ rmation\, where ‘heart’ meets ‘head’ to unlock unprecedented growt
+ h and reclaim marketing excellence. As organisations navigate a rapidly ev
+ olving landscape\, they are being challenged to unleash creativity\, lever
+ age emerging technologies\, and rethink talent\, agency\, and technology m
+ odels. More than a marketing challenge\, this shift represents an enterpri
+ se-wide opportunity to transform how businesses grow\, innovate\, and conn
+ ect with consumers.\n\nIn this webinar\, we will explore how leading organ
+ isations are:\n• Harnessing AI and emerging technologies to enhance mark
+ eting effectiveness and accelerate growth\n• Balancing creativity and da
+ ta-driven decision making to strengthen customer engagement\n• Rethinkin
+ g talent\, agency and operating models to build future-ready marketing fun
+ ctions\n• Embedding marketing transformation as a broader enterprise-wid
+ e growth agenda\n\nWe hope you can join us on Thursday\, 15 October 2026 f
+ rom 08.30 to 10.00.
 END:VEVENT
 BEGIN:VEVENT
 UID:golf-lesson-david-banks-20261020T130000@skylight-calendar-feed
@@ -147,6 +100,127 @@ DTSTAMP:20260831T085401Z
 DTSTART;TZID=Europe/London:20261020T140000
 DTEND;TZID=Europe/London:20261020T150000
 SUMMARY:Golf lesson – David Banks
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:bb15e7d8@skylight-calendar-feed
+DTSTAMP:20260821T103301Z
+DTSTART;VALUE=DATE:20261023
+DTEND;VALUE=DATE:20261027
+SUMMARY:Ireland
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKdfFfhwAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261102
+DTEND;VALUE=DATE:20261106
+SUMMARY:Poznan
+CATEGORIES:Orange Category
+END:VEVENT
+BEGIN:VEVENT
+UID:parents-lunch-core-20261105T143000@skylight-calendar-feed
+DTSTAMP:20260908T074357Z
+DTSTART;TZID=Europe/London:20261105T143000
+DTEND;TZID=Europe/London:20261105T190000
+SUMMARY:Parents having lunch in Core
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKjI-0eQAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261107T000000
+DTEND;TZID=Europe/London:20261107T003000
+SUMMARY:Davids 70th for lunch
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKdfFfiAAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261109
+DTEND;VALUE=DATE:20261111
+SUMMARY:Poznan?
+CATEGORIES:Orange Category
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKZdSIsAAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261110T183000
+DTEND;TZID=Europe/London:20261110T193000
+SUMMARY:Stamford Networking Evening??
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKGHAr7AAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261112T130000
+DTEND;TZID=Europe/London:20261112T140000
+SUMMARY:Tom M Oli Session 13
+CATEGORIES:Personal
+DESCRIPTION:Oli Deacon is inviting you to a scheduled Zoom meeting.
+END:VEVENT
+BEGIN:VEVENT
+UID:b44beb4b@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261114
+DTEND;VALUE=DATE:20261116
+SUMMARY:Birthday weekend
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKdfFfhAAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+SUMMARY:Poznan
+CATEGORIES:Orange Category
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKbuQ49wAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261121T173000
+DTEND;TZID=Europe/London:20261121T190000
+SUMMARY:IDGC
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:2a39a960@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261130
+SUMMARY:Dublin??
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKdfFfhQAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261214
+DTEND;VALUE=DATE:20261217
+SUMMARY:Poznan
+CATEGORIES:Orange Category
+END:VEVENT
+BEGIN:VEVENT
+UID:214984c6@skylight-calendar-feed
+DTSTAMP:20260821T103301Z
+DTSTART;TZID=Europe/London:20261217T090000
+DTEND;TZID=Europe/London:20261217T153000
+SUMMARY:Shoot - Oundle
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKZdSIqQAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261221T070000
+DTEND;TZID=Europe/London:20261221T073000
+SUMMARY:Waitrose delivery
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
+UID:outlook-AKZdSIqgAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;TZID=Europe/London:20261223T180000
+DTEND;TZID=Europe/London:20261223T183000
+SUMMARY:Waitrose delivery
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
@@ -174,97 +248,19 @@ SUMMARY:Boxing Day Bank Holiday
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
+UID:outlook-AKdfFfhgAA@skylight-calendar-feed
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20261229
+DTEND;VALUE=DATE:20270101
+SUMMARY:Book AL
+CATEGORIES:Personal
+END:VEVENT
+BEGIN:VEVENT
 UID:nyd-20270101@skylight-calendar-feed
-DTSTAMP:20260831T091031Z
-DTSTART;TZID=Europe/London:20270101T000000
-DTEND;TZID=Europe/London:20270101T003000
+DTSTAMP:20261009T090716Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270102
 SUMMARY:NYD holiday
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:perk-44438971-fr1751@skylight-calendar-feed
-DTSTAMP:20260902T112744Z
-DTSTART;TZID=Europe/London:20260923T121000
-DTEND;TZID=Europe/London:20260923T141500
-SUMMARY:Flight to London Stansted from Lawica (FR1751)
-CATEGORIES:Other
-DESCRIPTION:Flight Information: Departure: Lawica (POZ) Wednesday 23 Septem
- ber 01:10PM Airline: Buzz Flight Number: FR1751 Arrival: London Stansted (
- STN) Wednesday 23 September 02:15PM Flight Duration: 2h 5m Booking Referen
- ce: Y1359S Perk Trip ID: 44438971\nView full booking details here: https:/
- /app.perk.com/trips/44438971?source=CalendarEvent
-END:VEVENT
-BEGIN:VEVENT
-UID:off-question-20261012@skylight-calendar-feed
-DTSTAMP:20260921T071744Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261017
-SUMMARY:Off?
-CATEGORIES:Personal
-DESCRIPTION:
-END:VEVENT
-BEGIN:VEVENT
-UID:travel-20260923T103000@skylight-calendar-feed
-DTSTAMP:20260921T090940Z
-DTSTART;TZID=Europe/London:20260923T103000
-DTEND;TZID=Europe/London:20260923T105000
-SUMMARY:Travel
-CATEGORIES:other
-END:VEVENT
-BEGIN:VEVENT
-UID:booking-741783-20260923@skylight-calendar-feed
-DTSTAMP:20260921T092540Z
-DTSTART;TZID=Europe/London:20260923T141500
-DTEND;TZID=Europe/London:20260923T151000
-SUMMARY:Booking #741783\, Passenger: Tom Masters
-CATEGORIES:other
-DESCRIPTION:Caution: This email originated from outside of the organization
- . Do not click links or open attachments unless you recognize the sender a
- nd know the content is safe.\n-----Original Appointment-----\nFrom: Addiso
- n Lee <no-reply@addisonlee.com>\nSent: 14 September 2026 11:53\nTo: Addiso
- n Lee\nSubject: Booking #741783\, Passenger: Tom Masters\nWhen: 23 Septemb
- er 2026 14:15-15:10 (UTC+00:00) Dublin\, Edinburgh\, Lisbon\, London.\nWhe
- re: STANSTED\, MAIN TERM --> 17 Clyde Road\, London\, N22 7AD\nAddison Lee
-  Booking: #741783\nPlease be aware: cancelling this appointment in your ca
- lendar will not cancel the booking\n--------------------------------------
- --------\nPick up\nSTANSTED\, MAIN TERM Meeting point: Arrivals\nArrival f
- rom: POZNAN Poznań-Ławica\nFlight number: FR1751\nETA: Wed 23\, Sep 2026
-  - 14:15\nDrop off\n17 Clyde Road\, London\, N22 7AD\n--------------------
- --------------------------\nDate & Time\nWed 23\, Sep 2026 - 14:15\nYour s
- ervice\nSelect\nPassenger\nTom Masters - 07943806753\nContact\nSarah Conne
- lly - 07925674341\n----------------------------------------------\nAccount
- \nPepco Group Services Limited-818874\nReference\nNGHETC
-END:VEVENT
-BEGIN:VEVENT
-UID:barrys-20260926T133000@skylight-calendar-feed
-DTSTAMP:20260921T094211Z
-DTSTART;TZID=Europe/London:20260926T133000
-DTEND;TZID=Europe/London:20260926T143000
-SUMMARY:Barrys
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:finns-birthday-20261004T140000@skylight-calendar-feed
-DTSTAMP:20260921T095811Z
-DTSTART;TZID=Europe/London:20261004T140000
-DTEND;TZID=Europe/London:20261004T143000
-SUMMARY:Finns Birthday
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:bupa-finger-20261009T163000@skylight-calendar-feed
-DTSTAMP:20260921T101414Z
-DTSTART;TZID=Europe/London:20261009T163000
-DTEND;TZID=Europe/London:20261009T170000
-SUMMARY:Bupa finger appointment
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:golf-round-20260929T170000@skylight-calendar-feed
-DTSTAMP:20260921T104615Z
-DTSTART;TZID=Europe/London:20260929T170000
-DTEND;TZID=Europe/London:20260929T190000
-SUMMARY:Golf Round
 CATEGORIES:Personal
 END:VEVENT
 END:VCALENDAR
