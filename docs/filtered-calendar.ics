@@ -22,26 +22,6 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:hand-therapy-initial-20261020@skylight-calendar-feed
-DTSTAMP:20261016T114100Z
-DTSTART;TZID=Europe/London:20261020T150000
-DTEND;TZID=Europe/London:20261020T160000
-SUMMARY:(Insured) Initial Hand Therapy Consultation
-CATEGORIES:Personal
-DESCRIPTION:Initial Hand Therapy Consultation: Requires pre-authorisation f
- or 'hand therapy' with your insurance provider. Treatment covered by most 
- insurers including Aviva\, Cigna\, WPA\, Vitality and others. Please note 
- Axa PPP will only authorise cover at the clinic OneWelbeck.
-END:VEVENT
-BEGIN:VEVENT
-UID:1-rebel-angel-20261020@skylight-calendar-feed
-DTSTAMP:20261016T114100Z
-DTSTART;TZID=Europe/London:20261020T161500
-DTEND;TZID=Europe/London:20261020T171500
-SUMMARY:1 Rebel Angel
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
 UID:bb15e7d8@skylight-calendar-feed
 DTSTAMP:20260821T103301Z
 DTSTART;VALUE=DATE:20261023
@@ -292,22 +272,6 @@ DTSTAMP:20261016T120400Z
 DTSTART;TZID=Europe/London:20261031T150000
 DTEND;TZID=Europe/London:20261031T173000
 SUMMARY:Lauren & Harry
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:pickup-aston-matthews-20261020@skylight-calendar-feed
-DTSTAMP:20261018T115144Z
-DTSTART;TZID=Europe/London:20261020T143000
-DTEND;TZID=Europe/London:20261020T150000
-SUMMARY:Pick up bag and return items to Aston Matthews
-CATEGORIES:Personal
-END:VEVENT
-BEGIN:VEVENT
-UID:out-nicko-20261020@skylight-calendar-feed
-DTSTAMP:20261018T115144Z
-DTSTART;TZID=Europe/London:20261020T180000
-DTEND;TZID=Europe/London:20261020T183000
-SUMMARY:Out - Nicko
 CATEGORIES:Personal
 END:VEVENT
 BEGIN:VEVENT
