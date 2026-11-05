@@ -342,4 +342,31 @@ DTEND;TZID=Europe/London:20261105T183000
 SUMMARY:Parents Staying
 CATEGORIES:Personal
 END:VEVENT
+BEGIN:VEVENT
+UID:puro-poznan-hotel-20261116@skylight-calendar-feed
+DTSTAMP:20261105T154700Z
+DTSTART;VALUE=DATE:20261116
+DTEND;VALUE=DATE:20261120
+SUMMARY:🏨 Stay at PURO Poznań Stare Miasto
+CATEGORIES:Other
+DESCRIPTION:Hotel information: PURO Poznań Stare Miasto Address: Stawna 12
+  Poznań Phone: +48613331000 Email: poznan@purohotels.com Check in: Monday
+  16 November 2026 from 03:00PM until 12:00PM Check out: Thursday 19 Novemb
+ er 2026 until 12:00PM Perk Trip ID: 52314790\nView full booking details he
+ re: https://app.perk.com/trips/52314790?source=CalendarEvent
+END:VEVENT
+BEGIN:VEVENT
+UID:ryanair-flight-2194-poznan-20261116T0725@skylight-calendar-feed
+DTSTAMP:20261105T154700Z
+DTSTART;TZID=Europe/London:20261116T072500
+DTEND;TZID=Europe/London:20261116T092500
+SUMMARY:Ryanair flight 2194 to Poznan (JYYGVX)
+CATEGORIES:Other
+DESCRIPTION:Ryanair flight 2194 (2 hours)\nConfirmation code: JYYGVX\nPasse
+ ngers: Thomas Masters\nCheck in online: https://www.ryanair.com/ie/en/lp/c
+ heck-in\nDeparts at 07:25 on Monday\, November 16\, 2026 from London (STN)
+ \nArrives at 10:25 on Monday\, November 16\, 2026 in Poznan (POZ)\nShowing
+  airport local time.\nThis event was automatically added to your calendar 
+ from email by Outlook.
+END:VEVENT
 END:VCALENDAR
